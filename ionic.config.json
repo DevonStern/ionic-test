@@ -1,0 +1,8 @@
+{
+  "name": "Hello my jello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "26e8dfee"
+}
